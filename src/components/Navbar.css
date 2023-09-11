@@ -1,0 +1,549 @@
+nav{
+    position: fixed;
+   margin-top: -15px;
+    top: 0;
+    width: 100%;
+    height: 0px;
+    opacity:0.9;
+    color: aliceblue;
+    background-color: rgb(43, 43, 45);
+}.imagenav img{
+    width: 90px;
+    height: 150px;
+ margin-top: -14%;
+
+}
+.logo{
+    margin-left: -198%;
+    font-size: 0.5%;
+    margin-top: -3%;
+}
+
+.nap{
+    margin-left: 90%;
+    margin-top: -5%;
+ margin-top: -89%;
+
+    font-size: 30px;
+}
+
+.list{
+    display: flex;
+    text-decoration: none;
+    height: 70px;
+    margin-left: -1%;
+    position: relative;
+    list-style-type:none;
+    /* background-color: rgb(80, 80, 82); */
+    background-color: rgb(43, 43, 45);
+top:0;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+.items{
+     margin-top: 10px;
+    margin-right: 50px;
+    font-size:120%;
+   
+
+}
+.items a{
+    text-decoration:none;
+    color: aliceblue;
+  
+}
+.btn{
+position: absolute;
+display:none;
+right: 200px;
+top: 15px;
+color:#000;
+}
+.navicon1{
+    color:white;
+    font-size:150%;
+    margin-right:1%
+}
+.navicon2{
+    color: white;
+    font-size: 150%;
+    margin-right: -185%;
+}
+
+
+/* @media screen and (max-width:450px){ */
+    /* .list{
+        flex-direction:column;
+        width:85%;
+        height:auto;
+    } */
+    /* .items:nth-child(1){
+        border-top: 1px solid #000;
+        margin-top: 36px;
+        font-size:40px;
+        color:black;
+        width:100%;
+         /* margin-left: -50%; */
+    /* } */
+   /* .items:nth-child(2){
+        border-top: 1px solid #000;
+        margin-top: 30px; */
+        /* margin-left: -50%; */
+        /* font-size:20px;
+        margin-right: 90px;
+         color:rgb(17, 187, 244);
+        width:90%;
+    }    .items:nth-child(3){
+        border-top: 1px solid #000;
+        margin-top: 30px;
+        font-size:20px;
+        margin-left: -5%;
+        color:rgb(17, 187, 244);;
+        width:100%;} */
+
+/* 
+    .items:nth-child(4){
+        border-top: 1px solid #000;
+        margin-top: 30px;
+        color:rgb(17, 187, 244);;
+        font-size:20px;
+        width:90%;
+        
+    margin-left: 80px;
+
+} */
+
+    /* }    .items:nth-child(4){
+        border-top: 1px solid #000;
+        margin-top: 30px;
+        color:black;
+        font-size:40px;
+        width:100%;
+    }    .items:nth-child(5){
+        border-top: 1px solid #000;
+        margin-top: 30px;
+        color:black;
+        width:100%;
+        font-size:40px;
+    } */
+    /* .items{
+        width:90%;
+        height:100%;
+        border-top: 1px solid #000;
+        text-align: center;
+        margin-right: 0px;
+        padding: 20px 0;
+    }
+    .btn{
+        display:block;
+        font-size:20px;
+        right: 120px;
+        top:20px
+    }
+    .navicon1{
+        display: none;
+    }
+    .logo{
+        display: none;
+    } */
+/* } */
+
+
+
+@media screen and (max-width:730px){
+    .logo{
+      margin-left: 50%;
+    }
+  
+  }
+
+
+
+  
+/* @media screen and (max-width:1300px){
+ 
+      .list{
+        margin-left: -30%;
+      }
+} */
+
+
+  
+/* @media screen and (max-width:1200px){
+ 
+    .list{
+      margin-left: -250%;
+    }
+ 
+    .icon1{
+        margin-left: 20%;
+    }
+     .items{
+        width:1%;
+        height:100%;
+        border-top: 1px solid #000;
+        text-align: start;
+        margin-right: 250px;margin-left: -3%;
+        /* padding: 0px -50px -10px 0px; */
+   
+        @media screen and (max-width:1390px){
+          
+        
+          
+           
+            .logo{
+                margin-left: -190%;
+            }
+            .navicon1{
+                margin-left: 1%;
+            }
+            .navicon2{
+                margin-left: 1%;
+            }
+        }
+
+
+        /* @media screen and (max-width:1701px){
+            nav{
+                position: fixed;
+               margin-top: -15px;
+                top: 0;
+                width: 83%;
+                height: 0px;
+                opacity:0.9;
+                color: aliceblue;
+                background-color: rgb(43, 43, 45);
+            }
+        
+          
+           
+            .logo{
+                margin-left: -190%;
+            }
+            .navicon1{
+                margin-left: 1%;
+            }
+            .navicon2{
+                margin-left: 1%;
+            }
+        } */
+
+
+        @media screen and (max-width:1000px){
+            nav{
+                position: fixed;
+               margin-top: -15px;
+                top: 0;
+                width: 74%;
+                height: 0px;
+                opacity:0.9;
+                color: aliceblue;
+                background-color: rgb(43, 43, 45);
+            }
+        
+          
+           
+            .logo{
+                margin-left: -190%;
+            }
+            .navicon1{
+                margin-left: 1%;
+            }
+            .navicon2{
+                margin-left: 1%;
+            }
+        }
+
+        
+      
+        @media screen and (max-width:850px){
+            nav{
+                position: fixed;
+               margin-top: -15px;
+                top: 0;
+                width: 68%;
+                height: 0px;
+                opacity:0.9;
+                color: aliceblue;
+                background-color: rgb(43, 43, 45);
+            }
+          
+           
+            .logo{
+                margin-left: -200%;
+            }}
+
+            @media screen and (max-width:660px){
+                nav{
+                    position: fixed;
+                   margin-top: -15px;
+                    top: 0;
+                    width: 50%;
+                    height: 0px;
+                    opacity:0.9;
+                    color: aliceblue;
+                    background-color: rgb(43, 43, 45);
+                }
+              
+               
+                .logo{
+                    margin-left: -200%;
+                }}
+
+                @media screen and (max-width:600px){
+                    nav{
+                        position: fixed;
+                       margin-top: -15px;
+                        top: 0;
+                        width: 45%;
+                        height: 0px;
+                        opacity:0.9;
+                        color: aliceblue;
+                        background-color: rgb(43, 43, 45);
+                    }
+                  
+                   
+                    .logo{
+                        margin-left: -200%;
+                    }
+                
+                    .navicon1{
+                        margin-left: -1%;
+                    }
+                    .navicon2{
+                        margin-left: -1%;
+                    }
+                    .nap{
+                        margin-left: 90%;
+                        margin-top: -5%;
+                     margin-top: -89%;
+                    
+                        font-size: 20px;
+                    }}
+
+
+                    @media screen and (max-width:500px){
+                        nav{
+                            position: fixed;
+                           margin-top: -15px;
+                            top: 0;
+                            width: 40%;
+                            height: 0px;
+                            opacity:0.9;
+                            color: aliceblue;
+                            background-color: rgb(43, 43, 45);
+                        }
+                      
+                       
+                        .logo{
+                            margin-left: -225%;
+                        }
+                    
+                        .navicon1{
+                            margin-left: -1%;
+                        }
+                        .navicon2{
+                            margin-left: -1%;
+                        }
+                        .nap{
+                            margin-left: 90%;
+                            margin-top: -5%;
+                         margin-top: -94%;
+                         color: rgb(43, 43, 45);
+                            font-size: 15px;
+                        }.imagenav img{
+                            width: 80px;
+                            height: 130px;
+                            margin-left: 80%;
+                         margin-top: -24%;
+                        
+                        }}
+
+
+                        @media screen and (max-width:470px){
+                            nav{
+                                position: fixed;
+                               margin-top: -15px;
+                                top: 0;
+                                width: 39%;
+                                height: 0px;
+                                opacity:0.9;
+                                color: aliceblue;
+                                background-color: rgb(43, 43, 45);
+                            }
+                          
+                           
+                            .logo{
+                                margin-left: -225%;
+                            }
+                        
+                            .navicon1{
+                                margin-left: -3%;
+                            }
+                            .navicon2{
+                                margin-left: 1%;
+                            }
+                            .nap{
+                                margin-left: 80%;
+                                margin-top: -5%;
+                             margin-top: -94%;
+                             color: rgb(43, 43, 45);
+                                font-size: 15px;
+                            }.imagenav img{
+                                width: 80px;
+                                height: 130px;
+                                margin-left: 80%;
+                             margin-top: -24%;
+                            
+                            }}
+    
+    
+
+                            @media screen and (max-width:378px){
+                                nav{
+                                    position: fixed;
+                                   margin-top: -15px;
+                                    top: 0;
+                                    width: 31%;
+                                    height: 0px;
+                                    opacity:0.9;
+                                    color: aliceblue;
+                                    background-color: rgb(43, 43, 45);
+                                }
+                              
+                               
+                                .logo{
+                                    margin-left: -215%;
+                                }
+                            
+                                .navicon1{
+                                    margin-left: -3%;
+                                }
+                                .navicon2{
+                                    margin-left: 1%;
+                                }
+                                .nap{
+                                    margin-left: 80%;
+                                    margin-top: -5%;
+                                 margin-top: -94%;
+                                 color: rgb(43, 43, 45);
+                                    font-size: 15px;
+                                }.imagenav img{
+                                    width: 80px;
+                                    height: 130px;
+                                    margin-left: 80%;
+                                 margin-top: -24%;
+                                
+                                }}
+        
+        
+
+
+
+                                
+                            @media screen and (max-width:430px){
+                                nav{
+                                    position: fixed;
+                                   margin-top: -15px;
+                                    top: 0;
+                                    width: 34%;
+                                    height: 0px;
+                                    opacity:0.9;
+                                    color: aliceblue;
+                                    background-color: rgb(43, 43, 45);
+                                }
+                              
+                               
+                                .logo{
+                                    margin-left: -215%;
+                                }
+                            
+                                .navicon1{
+                                    margin-left: -3%;
+                                }
+                                .navicon2{
+                                    margin-left: 1%;
+                                }
+                                .nap{
+                                    margin-left: 80%;
+                                    margin-top: -5%;
+                                 margin-top: -94%;
+                                 color: rgb(43, 43, 45);
+                                    font-size: 15px;
+                                }.imagenav img{
+                                    width: 80px;
+                                    height: 130px;
+                                    margin-left: 80%;
+                                 margin-top: -24%;
+                                
+                                }}
+        
+            
+                                @media screen and (max-width:400px){
+                                    nav{
+                                        position: fixed;
+                                       margin-top: -15px;
+                                        top: 0;
+                                        width: 32%;
+                                        height: 0px;
+                                        opacity:0.9;
+                                        color: aliceblue;
+                                        background-color: rgb(43, 43, 45);
+                                    }
+                                  
+                                   
+                                    .logo{
+                                        margin-left: -215%;
+                                    }
+                                
+                                    .navicon1{
+                                        margin-left: -3%;
+                                    }
+                                    .navicon2{
+                                        margin-left: 1%;
+                                    }
+                                    .nap{
+                                        margin-left: 80%;
+                                        margin-top: -5%;
+                                     margin-top: -94%;
+                                     color: rgb(43, 43, 45);
+                                        font-size: 15px;
+                                    }.imagenav img{
+                                        width: 80px;
+                                        height: 130px;
+                                        margin-left: 80%;
+                                     margin-top: -24%;
+                                    
+                                    }}
+
+
+
+                                    
+        @media screen and (max-width:1050px){
+            nav{
+                position: fixed;
+               margin-top: -15px;
+                top: 0;
+                width: 84%;
+                height: 0px;
+                opacity:0.9;
+                color: aliceblue;
+                background-color: rgb(43, 43, 45);
+            }
+        
+          
+           
+            .logo{
+                margin-left: -190%;
+            }
+            .navicon1{
+                margin-left: 1%;
+            }
+            .navicon2{
+                margin-left: 1%;
+            }
+        }
+
+            
+            

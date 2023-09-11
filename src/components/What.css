@@ -1,0 +1,489 @@
+.imag img {
+    width: 35%;
+    height: 500px;
+    margin-left: -55%;
+    margin-top: -10%;border-radius: 2%;
+}
+
+.paraa {
+    margin-top: -30%;
+    margin-left: 20%;
+    color: orange;   font-style: sans-serif;
+    font-size: 40px;
+}
+
+.paraa2 {
+    margin-left: 57%;   font-style: sans-serif;
+}
+
+.new1 {
+    margin-left: -85%;   font-style: sans-serif;
+
+
+}
+
+.new2 {
+    margin-left: -91%;   font-style: sans-serif;
+}
+
+.new3 {   font-style: sans-serif;
+    margin-left: -94%;
+}
+
+.new4 {
+    margin-left: -82%;   font-style: sans-serif;
+}
+
+.new5 {
+    margin-left: -93%;   font-style: sans-serif;
+}
+
+.new6 {
+    margin-left: -86%;   font-style: sans-serif;
+}
+
+
+
+
+
+@media screen and (max-width:1420px) {
+    .imag img {
+        width: 35%;
+        height: 500px;
+        margin-left: -54%;
+        margin-top: -25%
+    }
+
+    .paraa {
+        margin-top: -30%;
+        margin-left: 20%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    }
+
+    .paraa2 {
+        margin-left: 58%;
+        /* width: 50%; */
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+    .imag img {
+        width: 35%;
+        height: 500px;
+        margin-left: -54%;
+        margin-top: -30%
+    }
+
+    .paraa {
+        margin-top: -32%;
+        margin-left: 18%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    }
+    
+    .new2 {
+        margin-left: -93%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -96%;
+    }
+    
+    .new4 {
+        margin-left: -82%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -96%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -88%;   font-style: sans-serif;
+    }
+   
+}
+
+@media screen and (max-width:1000px) {
+    .imag img {
+        width: 45%;
+        height: 500px;
+        margin-left: -44%;
+        margin-top: -35%
+    }
+
+    .paraa {
+        margin-top: -43%;
+        margin-left: 47%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    }
+
+    .paraa2 {
+        margin-left: 73%;
+        /* width: 50%; */
+    } 
+    .new2 {
+        margin-left: -99%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -105%;
+    }
+    
+    .new4 {
+        margin-left: -78%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -105%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -88%;   font-style: sans-serif;
+    }
+}
+
+@media screen and (max-width:770px) {
+  
+    .new2 {
+        margin-left: -105%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -111%;
+    }
+    
+    .new4 {
+        margin-left: -76%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -109%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -88%;   font-style: sans-serif;
+    }
+}
+
+
+@media screen and (max-width:570px) {
+  
+    .new2 {
+        margin-left: -109%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -120%;
+    }
+    
+    .new4 {
+        margin-left: -73%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -119%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -88%;   font-style: sans-serif;
+    }
+    .paraa {
+        margin-top: -63%;
+        margin-left: 47%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    } .imag img {
+        width: 45%;
+        height: 400px;
+        margin-left: -44%;
+        margin-top: -35%
+    }
+}
+
+
+
+
+@media screen and (max-width:500px) {
+  
+    .new2 {
+        margin-left: -100%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -110%;
+    }
+    
+    .new4 {
+        margin-left: -80%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -108%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -89%;   font-style: sans-serif;
+    }
+    .paraa {
+        margin-top: -83%;
+        margin-left: 4%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    } .imag img {
+        width: 25%;
+        height: 200px;
+        margin-left: -5%;
+        margin-top: 10%
+    }
+    .paraa2 {
+        margin-left: 48%;
+        /* width: 50%; */
+    } 
+}
+
+
+
+
+
+
+@media screen and (max-width:472px) {
+    .paraa {
+        margin-top: -90%;
+        margin-left: 4%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    }
+ 
+}
+
+@media screen and (max-width:435px) {
+    .paraa {
+        margin-top: -85%;
+        margin-left: 4%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    } .imag img {
+        width: 25%;
+        height: 110px;
+        margin-left: -5%;
+        margin-top: 25%
+    }
+    .new2 {
+        margin-left: -90%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -121%;
+    }
+    
+    .new4 {
+        margin-left: -73%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -121%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -91%;   font-style: sans-serif;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .new2 {
+        margin-left: -105%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -114%;
+    }
+    
+    .new4 {
+        margin-left: -78%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -111%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -89%;   font-style: sans-serif;
+    }
+ 
+}
+
+@media screen and (max-width:825px) {
+    .new2 {
+        margin-left: -105%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -114%;
+    }
+    
+    .new4 {
+        margin-left: -78%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -111%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -89%;   font-style: sans-serif;
+    }
+ 
+}
+
+
+@media screen and (max-width:550px) {
+    .new2 {
+        margin-left: -109%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -121%;
+    }
+    
+    .new4 {
+        margin-left: -73%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -121%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -91%;   font-style: sans-serif;
+    }
+ 
+}
+
+
+@media screen and (max-width:420px) {
+    .new2 {
+        margin-left: -104%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -113%;
+    }
+    
+    .new4 {
+        margin-left: -80%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -111%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -91%;   font-style: sans-serif;
+    }
+ 
+}
+
+@media screen and (max-width:1250px) {
+    .new2 {
+        margin-left: -92%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -96%;
+    }
+    
+    .new4 {
+        margin-left: -82%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -95%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -86%;   font-style: sans-serif;
+    }
+ 
+}
+
+
+
+@media screen and (max-width:380px) {
+    .new2 {
+        margin-left: -104%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -113%;
+    }
+    
+    .new4 {
+        margin-left: -76%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -111%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -91%;   font-style: sans-serif;
+    }
+ 
+}
+
+
+@media screen and (max-width:415px) {
+    .new2 {
+        margin-left: -104%;   font-style: sans-serif;
+    }
+    
+    .new3 {   font-style: sans-serif;
+        margin-left: -113%;
+    }
+    
+    .new4 {
+        margin-left: -80%;   font-style: sans-serif;
+    }
+    
+    .new5 {
+        margin-left: -111%;   font-style: sans-serif;
+    }
+    
+    .new6 {
+        margin-left: -91%;   font-style: sans-serif;
+    }
+    .paraa {
+        margin-top: -70%;
+        margin-left: 4%;
+        color: orange;
+        font-size: 25px;
+        font-weight: bold;
+
+    }.imag img {
+        width: 25%;
+        height: 95px;
+        margin-left: -5%;
+        margin-top: 14%
+    }
+}
+
+
+
+
