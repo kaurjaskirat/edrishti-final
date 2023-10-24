@@ -5,7 +5,7 @@ import './What.css';
 
 const What = () => {
 return(
- <div className='What' style={{marginBottom:"36%"}}>
+ <div className='What' style={{marginBottom:"25%"}}>
       <div className='imag' >
        <img src={what} alt="this is car image" /></div>
      

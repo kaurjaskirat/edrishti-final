@@ -446,6 +446,7 @@
 }
 
 
+
 @media screen and (max-width:1581px) {
     .ac9 {
         width: 25%;
@@ -1046,7 +1047,7 @@
         height: 350px;
         background-color: rgb(222, 216, 216);
         margin-left: 62%;
-        margin-top: -28%;
+        margin-top: -27.5%;
         transition: transform .2s
     }
 
@@ -1055,7 +1056,7 @@
         height: 350px;
         background-color: rgb(222, 216, 216);
         margin-left: 62%;
-        margin-top: -28%;
+        margin-top: -27.5%;
         transition: transform .2s
     }
 
@@ -1064,7 +1065,7 @@
         height: 350px;
         background-color: rgb(222, 216, 216);
         margin-left: 62%;
-        margin-top: -28%;
+        margin-top: -27.5%;
         transition: transform .2s
     }
 
@@ -1073,7 +1074,7 @@
         height: 350px;
         background-color: rgb(222, 216, 216);
         margin-left: 36%;
-        margin-top: -28%;
+        margin-top: -27.5%;
         transition: transform .2s
     }
 
@@ -1082,7 +1083,7 @@
         height: 350px;
         background-color: rgb(222, 216, 216);
         margin-left: 36%;
-        margin-top: -28%;
+        margin-top: -27.5%;
         transition: transform .2s
     }
 
@@ -1091,7 +1092,7 @@
         height: 350px;
         background-color: rgb(222, 216, 216);
         margin-left: 36%;
-        margin-top: -28%;
+        margin-top: -27.5%;
         transition: transform .2s
     }
 }

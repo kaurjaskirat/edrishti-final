@@ -11,7 +11,7 @@ import './Features.css';
 
 const Features = () => {
 return(
- <div className='Feature' style={{marginBottom:"40%",marginTop:"-14%"}}>
+ <div className='Feature' style={{marginBottom:"35%",marginTop:"-14%"}}>
      <h2 className="Featureh">FEATURES.</h2>
 
 <div className='containerfeatures1'>

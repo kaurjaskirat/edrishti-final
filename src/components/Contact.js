@@ -179,7 +179,7 @@ else {
         {/* <button onClick={handleApi}>SEND MESSAGE</button><br></br><br></br> */}
         <div className='contact__form-div'style={{marginTop:"-10%"}}>
         <p className="cp" style={{  marginLeft:"-45%",marginTop:"5%",color:"grey",fontStyle: "sans-serif"}}>*We promise not to disclose your personal information to third party</p>
-        <button className='cb' style={{  padding:"35px 20px 25px 20px",marginLeft:"40%",marginTop:"-27%",fontSize:"90%",backgroundColor:"orange",color:"rgb(57, 57, 57)",border:"none",fontStyle: "Outfit,sans-serif"}} onClick={handleApi}  >SEND MESSAGE</button>
+        <button className='cb' style={{  padding:"30px 25px 25px 30px",marginLeft:"40%",marginTop:"-27%",fontSize:"90%",backgroundColor:"orange",color:"rgb(57, 57, 57)",border:"none",fontStyle: "sans-serif"}} onClick={handleApi}  >SEND MESSAGE</button>
     </div>
     </div>
 

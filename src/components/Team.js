@@ -17,8 +17,7 @@ import './Team.css';
 const Team = () => {
 return(
  <div className='Team' style={{marginBottom:"40%",backgroundColor:"rgb(222, 216, 216)"}}>
-      {/* <div className='imag' >
-       <img src={bg6} alt="this is car image" /></div> */}
+    
      
 <p className='paraaa'>OUR TEAM</p>
 <p className='paraaaa'>OUR TEAM</p>

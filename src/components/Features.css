@@ -138,14 +138,14 @@ overflow: hidden;
 
 }
 .cardfeatures1:hover .content1{
-    width: 110%;
+    width: 100%;
     height: 100%;
     left: -0.5%;
-    opacity: 0.8;
+    opacity: 1;
     bottom: 0;
 }
 .content1 p{
-margin-top: -9%;
+margin-top: -21%;
     padding: 1em 1em;
     transform: translateY(2em);
 }.content1 h2{margin-top: -2%;}
@@ -199,10 +199,10 @@ overflow: hidden;
 
 }
 .cardfeatures2:hover .content2{
-    width: 110%;
+    width: 100%;
     height: 100%;
     left: 0;
-    opacity: 0.8;
+    opacity: 1;
     bottom: 0;
 }
 .content2 p{
@@ -253,7 +253,7 @@ margin-top: -21%;
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 80px;
+    height: 90px;
     padding: 15px;
 background: orange;
 transition: all 0.5s cubic-bezier(-.48 -0.28 0.41 1.4);
@@ -329,7 +329,7 @@ overflow: hidden;
     width: 100%;
     height: 100%;
     left: 0;
-    opacity: 0.8;
+    opacity: 1;
     bottom: 0;
 }
 .content4 p{
@@ -580,3 +580,176 @@ margin-top: -23%;
         box-shadow: 0 3px 15px rgba(0 0 0, 0);
      }
 }
+
+
+
+@media screen and (max-width:1001px){
+
+
+   .cardfeatures5{
+       position: relative;
+       width: 215px;
+       height: 400px;  left: 94.4%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+       display: none;
+    } .cardfeatures4{
+       position: relative;
+       width: 246px;
+       height: 400px;  left: 74%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures3{
+       position: relative;
+       width: 240px;
+       height: 400px;  left: 49.5%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    } .cardfeatures2{
+       position: relative;
+       width: 250px;
+       height: 400px;  left: 24.2%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures1{
+       margin-top:4%;
+       position: relative;
+       left: 1%;
+       width: 230px;
+       height: 400px;
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+}
+
+
+@media screen and (max-width:901px){
+
+ .cardfeatures4{
+       position: relative;
+       width: 300px;
+       height: 400px;  left: 46.2%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures3{
+       position: relative;
+       width: 280px;
+       height: 400px;  left: 10.2%;
+       margin-top:5%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    } .cardfeatures2{
+       position: relative;
+       width: 300px;
+       height: 400px;  left: 46.2%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures1{
+       margin-top:4%;
+       position: relative;
+       left: 1%;
+       width: 280px;left: 10.2%;
+       height: 400px;
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+}
+
+
+@media screen and (max-width:751px){
+
+
+ .cardfeatures4{
+       position: relative;
+       width: 270px;
+       height: 400px;  left: 29.2%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures3{
+       position: relative;
+       width: 270px;
+       height: 400px;  left: 1.2%;
+       margin-top:5%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    } .cardfeatures2{
+       position: relative;
+       width: 270px;
+       height: 400px;  left: 29.2%;
+       margin-top:-40%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures1{
+       margin-top:4%;
+       position: relative;
+       left: 1%;
+       width: 270px;left: 1.2%;
+       height: 400px;
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+}
+
+
+
+@media screen and (max-width:551px){
+
+ .cardfeatures4{
+       position: relative;
+       width: 270px;
+       height: 400px;  left: 10.2%;
+       margin-top:1%;   
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures3{
+       position: relative;
+       width: 270px;
+       height: 400px; left: 10.2%;
+       margin-top:1%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    } .cardfeatures2{
+       position: relative;
+       width: 270px;
+       height: 400px;  left: 10.2%;
+       margin-top:1%;  
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+    .cardfeatures1{
+       margin-top:4%;
+       position: relative;
+       left: 1%;
+       width: 270px;left: 10.2%;
+       height: 400px;
+       transition: 0.3s ease-out;
+       box-shadow: 0 3px 15px rgba(0 0 0, 0);
+    }
+}
+@media screen and (max-width:501px){
+.Featureh{
+   color: orange;
+   font-size: 40px;
+   margin-left: 30%;
+}
+}@media screen and (max-width:351px){
+   .Featureh{
+      color: orange;
+      font-size: 40px;
+      margin-left: 45%;
+   }
+   }
